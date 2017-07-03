@@ -1,4 +1,4 @@
-# Vuebly templates
+# Commandly templates
 
 This a basic Android and iOS template for Vuebly based on Weex.
 
@@ -14,5 +14,5 @@ Then create a new project:
 
 ```
 # Create a new project called 'NextProject' from a remote git repository template
-$ commandly new NextProject -t https://github.com/louie007/vuebly-templates.git
+$ commandly new NextProject -t https://github.com/louie007/commandly-templates.git
 ```
